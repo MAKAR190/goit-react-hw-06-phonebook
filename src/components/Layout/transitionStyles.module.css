@@ -1,0 +1,19 @@
+.enter {
+  margin-left: -13%;
+  transition: margin 500ms linear;
+}
+
+.enterActive {
+  margin-left: 0%;
+  transition: margin 500ms linear;
+}
+
+.exit {
+  margin-left: 0;
+  transition: margin 500ms linear;
+}
+
+.exitActive {
+  margin-left: 0;
+  transition: margin 500ms linear;
+}
